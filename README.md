@@ -14,7 +14,7 @@ By default, shatfs with post to /srv/shatfs and mount to /mnt/shat.
 In /mnt/shat are the files;
 + tempp and press are tempurature in C and pressure in hPa from the LSP25H
 + temph and humid are temperature in C and humidity in %RH from the HTS221
-+ accel, gyro, and mag are the 9 axis of teh LSM9DS1
++ accel, gyro, and mag are the 9 axis of the LSM9DS1
 + led lets you write to the 8x8 LED grid
 
 ## ToDo
